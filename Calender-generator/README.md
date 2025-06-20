@@ -42,7 +42,7 @@ A simple and user-friendly calendar generator built with Python. This project al
 ### Installation
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/calendar-generator.git
+git clone https://github.com/H7ugf/projects_py.git
 cd calendar-generator
 ```
 
@@ -77,7 +77,7 @@ python Calendar.py
 ### التثبيت
 1. **استنساخ المستودع**
 ```bash
-git clone https://github.com/yourusername/calendar-generator.git
+git clone https://github.com/H7ugf/projects_py.git
 cd calendar-generator
 ```
 
@@ -90,7 +90,7 @@ python Calendar.py
 
 ## 👨‍💻 Developer
 - **Name**: محمد علي حزام
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **GitHub**:https://github.com/H7ugf/projects_py.git
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
