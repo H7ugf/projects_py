@@ -44,8 +44,8 @@ A simple and user-friendly Age Calculator application built with Python and Tkin
 ### Installation
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/age-calculator-python.git
-cd age-calculator-python
+git clone https://github.com/H7ugf/projects_py.git
+cd ageCalc
 ```
 
 2. **Install Python (if not already installed)**
@@ -83,8 +83,8 @@ python Age_Calculator_GUI.py
 ### التثبيت
 1. **استنساخ المستودع**
 ```bash
-git clone https://github.com/yourusername/age-calculator-python.git
-cd age-calculator-python
+git clone https://github.com/H7ugf/projects_py.git
+cd ageCalc
 ```
 
 2. **تثبيت بايثون (إذا لم يكن مثبتًا)**
@@ -99,7 +99,6 @@ python Age_Calculator_GUI.py
 
 ## 👨‍💻 Developer
 - **Name**: محمد علي حزام
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
-
+- **GitHub**: https://github.com/H7ugf/projects_py.git
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
