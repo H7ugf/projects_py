@@ -45,7 +45,7 @@ A simple and user-friendly calculator application built with Python and Tkinter.
 ### Installation
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/pycalculator.git
+git clone https://github.com/H7ugf/projects_py.git
 cd pycalculator
 ```
 
@@ -82,7 +82,7 @@ python pycalc.py
 ### التثبيت
 1. **استنساخ المستودع**
 ```bash
-git clone https://github.com/yourusername/pycalculator.git
+git clone https://github.com/H7ugf/projects_py.git
 cd pycalculator
 ```
 
@@ -95,7 +95,7 @@ python pycalc.py
 
 ## 👨‍💻 Developer
 - **Name**: محمد علي حزام
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **GitHub**: https://github.com/H7ugf/projects_py.git
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
