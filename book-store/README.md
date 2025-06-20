@@ -49,7 +49,7 @@ A simple and user-friendly Book Store application built with Python, Tkinter, an
 ### Installation
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/book-store.git
+git clone https://github.com/H7ugf/projects_py.git
 cd book-store
 ```
 
@@ -92,7 +92,7 @@ python bookstore.py
 ### التثبيت
 1. **استنساخ المستودع**
 ```bash
-git clone https://github.com/yourusername/book-store.git
+git clone https://github.com/H7ugf/projects_py.git
 cd book-store
 ```
 
