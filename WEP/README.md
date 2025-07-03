@@ -117,4 +117,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     صور البرنامج
   </h1>
   <img src="assets/Screenshot 2025-07-03 172955.png" alt="Project Screenshot" width="600"/>
+  <img src="assets/Screenshot 2025-07-03 173023.png" alt="Project Screenshot" width="600"/>
+  <img src="assets/Screenshot 2025-07-03 173053.png" alt="Project Screenshot" width="600"/>
+  <img src="assets/Screenshot 2025-07-03 173230.png" alt="Project Screenshot" width="600"/>
+  <img src="assets/Screenshot 2025-07-03 173249.png" alt="Project Screenshot" width="600"/>
 </div>
