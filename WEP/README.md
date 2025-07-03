@@ -1,7 +1,7 @@
 # 🌐 WEP | Web-based Electronic Platform
 
 <div align="center">
-
+<img src="assets/Screenshot 2025-07-03 172955.png" alt="Project Screenshot" width="600"/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
